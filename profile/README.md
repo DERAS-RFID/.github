@@ -21,7 +21,7 @@ The security of our software and our users is a top priority at DERAS-RFID. We a
 
 If you discover a security vulnerability in any of our repositories or software, please refer to our dedicated security policy for guidance on how to report it responsibly, our response timelines, and our disclosure practices:
 
-**[View our Security Policy (SECURITY.md)](SECURITY.md)**
+**[View our Security Policy (SECURITY.md)](https://github.com/DERAS-RFID/.github/blob/main/SECURITY.md)**
 
 Key highlights of our security policy:
 - Private vulnerability reporting via **security@deras-rfid.com**
