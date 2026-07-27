@@ -13,6 +13,26 @@ At DERAS-RFID, we offer a powerful **UHF RFID Integration Gateway** designed to 
 
 ---
 
+## Security
+
+The security of our software and our users is a top priority at DERAS-RFID. We are committed to responsible vulnerability disclosure and timely remediation.
+
+> **Please do NOT report security vulnerabilities through public GitHub Issues.**
+
+If you discover a security vulnerability in any of our repositories or software, please refer to our dedicated security policy for guidance on how to report it responsibly, our response timelines, and our disclosure practices:
+
+**[View our Security Policy (SECURITY.md)](SECURITY.md)**
+
+Key highlights of our security policy:
+- Private vulnerability reporting via **security@deras-rfid.com**
+- Acknowledgement within **48 hours**, triage within **5 business days**
+- Severity classification using **CVSS v3.1**
+- Coordinated public disclosure after patches are released
+
+We appreciate the efforts of security researchers and the community in helping keep DERAS-RFID products safe.
+
+---
+
 ## API Integrated for UHF Hardware
 
 Our UHF RFID Gateway API is designed to be flexible and comprehensive. It allows you to:
