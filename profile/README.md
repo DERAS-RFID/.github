@@ -1,4 +1,3 @@
-
 # Welcome to the Official DERAS-RFID GitHub Repository
 
 Welcome to the official GitHub repository of **DERAS-RFID**, a leading provider of UHF RFID integration solutions. We specialize in providing high-performance, reliable, and easy-to-integrate UHF RFID API Gateways that connect your hardware seamlessly with your software solutions. Our mission is to empower businesses with robust RFID technology that can be easily deployed, customized, and expanded, improving operational efficiency and data accuracy across industries.
@@ -14,6 +13,26 @@ At DERAS-RFID, we offer a powerful **UHF RFID Integration Gateway** designed to 
 
 ---
 
+## Security
+
+The security of our software and our users is a top priority at DERAS-RFID. We are committed to responsible vulnerability disclosure and timely remediation.
+
+> **Please do NOT report security vulnerabilities through public GitHub Issues.**
+
+If you discover a security vulnerability in any of our repositories or software, please refer to our dedicated security policy for guidance on how to report it responsibly, our response timelines, and our disclosure practices:
+
+**[View our Security Policy (SECURITY.md)](SECURITY.md)**
+
+Key highlights of our security policy:
+- Private vulnerability reporting via **security@deras-rfid.com**
+- Acknowledgement within **48 hours**, triage within **5 business days**
+- Severity classification using **CVSS v3.1**
+- Coordinated public disclosure after patches are released
+
+We appreciate the efforts of security researchers and the community in helping keep DERAS-RFID products safe.
+
+---
+
 ## API Integrated for UHF Hardware
 
 Our UHF RFID Gateway API is designed to be flexible and comprehensive. It allows you to:
@@ -25,6 +44,3 @@ Our UHF RFID Gateway API is designed to be flexible and comprehensive. It allows
 - **Flexible configuration options** for ease of integration with different hardware brands and models.
 
 This API empowers developers to build custom applications that can fully utilize the capabilities of UHF RFID technology.
-
----
-Communicate with the API using WebSockets, ideal for real-time applications, such as web-based dashboards and IoT projects.
