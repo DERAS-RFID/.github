@@ -24,8 +24,7 @@ If you discover a security vulnerability in any of our repositories or software,
 **[View our Security Policy (SECURITY.md)](https://github.com/DERAS-RFID/.github/blob/main/SECURITY.md)**
 
 Key highlights of our security policy:
-- Private vulnerability reporting via **security@deras-rfid.com**
-- Acknowledgement within **48 hours**, triage within **5 business days**
+- Private vulnerability reporting via **security@deras.tech**
 - Severity classification using **CVSS v3.1**
 - Coordinated public disclosure after patches are released
 
