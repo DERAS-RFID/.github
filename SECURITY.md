@@ -28,19 +28,6 @@ To help us triage and respond efficiently, please provide:
 
 ---
 
-## Response Timeline (SLA)
-
-| Stage                          | Target Time         |
-| ------------------------------ | ------------------- |
-| Acknowledgement of report      | ≤ 48 hours          |
-| Initial triage & severity rating | ≤ 5 business days |
-| Patch development (Critical)   | ≤ 7 days            |
-| Patch development (High)       | ≤ 14 days           |
-| Patch development (Medium/Low) | ≤ 30 days           |
-| Public disclosure (CVE)        | After patch release |
-
----
-
 ## Severity Classification
 
 We use the **CVSS v3.1** scoring system to rate vulnerabilities:
