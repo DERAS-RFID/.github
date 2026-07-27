@@ -44,13 +44,3 @@ Our UHF RFID Gateway API is designed to be flexible and comprehensive. It allows
 - **Flexible configuration options** for ease of integration with different hardware brands and models.
 
 This API empowers developers to build custom applications that can fully utilize the capabilities of UHF RFID technology.
-
----
-
-## Sample Code for Multiple Programming Languages
-
-To help developers quickly get started with our API, we provide sample code in the following programming languages: JavaScript (WebSocket), Python, Go, and PHP. These samples demonstrate how to integrate the UHF RFID Gateway API into your system and interact with RFID hardware.
-
-### 1. WebSocket (JavaScript)
-
-Communicate with the API using WebSockets, ideal for real-time applications, such as web-based dashboards and IoT projects.
